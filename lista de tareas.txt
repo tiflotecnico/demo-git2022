@@ -1,1 +1,2 @@
 primera tarea, crear un repositorio
+segunda tarea, crear un archivo dentro del repositorio
